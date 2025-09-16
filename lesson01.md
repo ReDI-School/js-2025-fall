@@ -46,6 +46,15 @@ Lesson 1, Thursday, 2025-09-11
 
 ![Growth Mindset](images/growth-mindset.jpg) <!-- .element  height="500px" -->
 
+---
+
+### A note about AI
+
+* Don't overuse it
+* Think first, don't ask for answers
+* Make it help you understand the problem better
+* Use it to explain solutions
+
 
 ---
 
