@@ -2,7 +2,7 @@
 
 ### JavaScript Course - Fall 2025
 
-Lesson 1, Thursday, 2025-09-11
+Lesson 1, Thursday, 2025-09-16
 
 ---
 
