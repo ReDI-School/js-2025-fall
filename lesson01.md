@@ -1,4 +1,4 @@
-<!-- .slide: id="lesson1" -->
+<!-- .slide: id="²" -->
 
 ### JavaScript Course - Fall 2025
 
