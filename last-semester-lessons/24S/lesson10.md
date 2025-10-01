@@ -68,6 +68,6 @@ BONUS: Also offer express shipping for a small extra fee.
 
 ### Sample solutions
 
-[guessing game](preject/numberguess.html)
+[guessing game](project/numberguess.html)
 
-[web store](preject/webstore.html)
+[web store](project/webstore.html)
