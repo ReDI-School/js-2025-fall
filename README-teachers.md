@@ -61,7 +61,7 @@ The easiest way to interact with GitHub is via their CLI at https://cli.github.c
 1. Download the source code. This step you need to do only once:
 
 ```sh
-gh repo clone ReDI-School/js-2025-spring
+gh repo clone ReDI-School/js-2025-fall
 ```
 
 1. Make sure you have the latest version:
